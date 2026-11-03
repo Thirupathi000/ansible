@@ -5,7 +5,7 @@
   # move this to vars_files
   vars:
     subnet_id: "subnet-0f76b6786239a6b99" # replace with your subnet id
-    sg_id: "sg-09a300a3729062c5a"
+    sg_id: "sg-017983627034fd77d"
     ami_id: "ami-0055977a6e828a4f4"
     instances:
     - mysql
